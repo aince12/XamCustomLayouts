@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{56722B7E-A43B-4883-B027-F7F43FCB0848}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/Renderers/CircularImageRenderer.cs">
+    <Files>
+      <File FileName="CustomViewTester/CustomViewTesterPage.xaml" Line="18" Column="1" />
+      <File FileName="CustomViewTester/CustomViewTesterPage.xaml.cs" Line="19" Column="78" />
+      <File FileName="CustomViewTester/obj/Debug/CustomViewTester.CustomViewTesterPage.xaml.g.cs" Line="23" Column="1" />
+      <File FileName="Droid/MainActivity.cs" Line="14" Column="94" />
+      <File FileName="Droid/Renderers/CircularImageRenderer.cs" Line="73" Column="32" />
+      <File FileName="iOS/Renderers/CircularImageRenderer.cs" Line="57" Column="20" />
+      <File FileName="CustomViewTester/CustomLayouts/FabMenu.xaml" Line="65" Column="1" />
+      <File FileName="CustomViewTester/CustomLayouts/FabMenu.xaml.cs" Line="88" Column="49" />
+      <File FileName="CustomViewTester/CustomLayouts/FabMenuItem.cs" Line="25" Column="47" />
+      <File FileName="CustomViewTester/Renderers/CircularImage.cs" Line="8" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CustomViewTester.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C99B0221-D06F-42E1-AAD4-95924539A130">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.CustomViewTester.iOS>
+  <MonoDevelop.Ide.ItemProperties.CustomViewTester.Droid PreferredExecutionTarget="Android.TA0050FDVF" />
+</Properties>
